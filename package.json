@@ -1,0 +1,15 @@
+{
+  "name": "landrelib",
+  "version": "1.0.0",
+  "description": "Useful JavaScript Reusable Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geraldo B. Landre <geraldo.landre@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.4.0"
+  }
+}
