@@ -9,3 +9,8 @@ I'll be storing here functions to handle simple data, algorithm problems solved 
 - Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Choosing a License: https://choosealicense.com/
 - Semantic Versioning: http://semver.org/
+- Mocha JS
+  - Getting started: https://mochajs.org/
+- Babel
+  - Setup: http://babeljs.io/docs/setup/#installation
+  - Testing in ES6 (ES2015) with Mocha and Babel: http://jamesknelson.com/testing-in-es6-with-mocha-and-babel-6/
